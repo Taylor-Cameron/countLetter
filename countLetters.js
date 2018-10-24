@@ -1,4 +1,5 @@
 
+
 function countLetters(string) {
   var finalObject = {};
   var noSpaces = string.replace(/\ /g, '').toLowerCase();
